@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Godlord11
+- 👋 Hi, I’m Devansh
 - 👀 I’m interested in Business, Cryptography, computer science and trading
 - 🌱 I’m currently learning Computer Science and business management
 - 💞️ I’m looking to collaborate on Project related Finance and Service related Applications and new Startup ideas
